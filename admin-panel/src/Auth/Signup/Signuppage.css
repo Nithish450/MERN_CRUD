@@ -1,0 +1,24 @@
+body {
+    background: linear-gradient(135deg, #6b73ff 0%, #000dff 100%);
+  }
+  
+  .Card {
+    width: 100%;
+    max-width: 500px;
+    border-radius: 10px;
+  }
+  
+  .Card .Card-Title {
+    font-size: 1.5rem;
+    color: #333;
+  }
+  
+  .Button {
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .Form-Control:focus {
+    border-color: #ff7e5f;
+    box-shadow: 0 0 0 0.2rem rgba(255, 126, 95, 0.25);
+  }
+  
